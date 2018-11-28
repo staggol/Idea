@@ -79,8 +79,12 @@
 		font-size: 14px !important;
 	}
 
+	main #impressed {
+		padding-bottom: 8rem;
+	}
+
 	#impressed img {
-		margin-top: 5rem;
+		display: none;
 	}
 
 	#portfolio .tabs span {
