@@ -1,0 +1,123 @@
+@media only screen and (max-width: 768px) { 
+
+	html,
+	body {
+		width: 100vw; 
+	}
+
+	.btn-up {
+		right: 20px;
+	}
+	
+	nav {
+		margin-left: -2rem;
+	}
+
+	.navbar-brand a {
+		font-size: 36px !important;
+	}
+
+	header .navbar .navbar-menu a:hover, header .navbar .navbar-menu a:focus {
+		border: none;
+		padding: 1rem 0;
+	}
+
+	#headerwrap {
+		height: 500px;
+	}
+	
+	#headerwrap h2 {
+		font-size: 18px;
+	}
+
+	#headerwrap p, 
+	#phone p, 
+	#details p, 
+	#projects p, 
+	#services p,
+	#impressed p,
+	#portfolio p,
+	#team p,
+	#contact p,
+	#testimonials p,
+	form p,
+	footer p {
+		font-size: 12px;
+	}
+
+	#headerwrap .btn-phone {
+		margin-top: 4rem;
+	}
+
+	#projects .whiskey {
+		margin-bottom: -9rem;
+	}
+
+	#projects .branding {
+		margin-top: -1rem;
+	}
+
+	#projects .projects-bg,
+	#services,
+	#impressed,
+	#testimonials h5,
+	#testimonials p {
+		text-align: center;
+	}
+
+	#projects .projects-bg p, 
+	#portfolio .projects-bg p, 
+	#portfolio .tabs span {
+		font-size: 14px !important;
+	}
+
+	#services .is-6 {
+		margin-bottom: 2rem;
+	}
+
+	#services .perc p {
+		font-size: 14px !important;
+	}
+
+	#impressed img {
+		margin-top: 5rem;
+	}
+
+	#portfolio .tabs span {
+		font-weight: 600;
+		margin: 0.5rem 0;
+	}
+
+	#team .projects-bg {
+		margin-top: 2rem;
+	}
+
+	#team .is-6 p, 
+	#team .is-6 h4, 
+	#team .is-6 h5 {
+		text-align: center !important;
+		margin-right: 0 !important;
+		border-right: 0 !important;
+	}
+
+	#team .is-6 h5, #testimonials h6 {
+		font-size: 12px !important;
+	}
+
+	#team #progress-bar .progress-1,
+	#team #progress-bar .progress-2,
+	#team #progress-bar .progress-3 {
+		display: inline-block;
+		text-align: center;
+		float: none !important;
+	}
+
+	#form input {
+		width: 90%;
+	}
+
+	#form button {
+		margin: auto !important;
+	}
+	
+}
