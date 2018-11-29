@@ -94,8 +94,8 @@ header .navbar .navbar-burger:focus {
 
 .dot {
 	cursor: pointer;
-	height: 13px;
-	width: 13px;
+	height: 23px;
+	width: 23px;
 	margin: 0 0.1rem;
 	background: #bbb;
 	border-radius: 50%;
@@ -251,7 +251,7 @@ header .navbar .navbar-brand a {
 	text-transform: uppercase;
 	border-top: 3px solid #fff;
 	border-bottom: 3px solid #fff;
-
+	transition: 0.5s;
 }
 
 header .navbar .navbar-menu a, header .navbar .navbar-menu a {
