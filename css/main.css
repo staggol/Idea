@@ -254,12 +254,14 @@ header .navbar .navbar-brand a {
 
 }
 
+header .navbar .navbar-menu a, header .navbar .navbar-menu a {
+	transition: 0.5s;
+}
+
 header .navbar .navbar-menu a:hover, header .navbar .navbar-menu a:focus {
 	background-color: transparent;
 	color: #fff;
-	border-radius: 1.5rem;
-	border: 1px solid #fff;
-	padding: 0 1.5rem;
+	padding-bottom: 1.5rem;
 }
 
 #headerwrap {
