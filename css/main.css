@@ -170,7 +170,7 @@ nav.navbar .navbar-brand .navbar-burger {
 }
 
 nav.navbar .navbar-brand a {
-	padding-left: 5rem;
+	margin-left: 5rem;
 }
 
 
@@ -246,9 +246,11 @@ header {
 
 header .navbar .navbar-brand a {
 	color: #fff;
-	font-weight: 600;
+	font-weight: 700;
 	font-size: 2.5rem;
 	text-transform: uppercase;
+	border-top: 3px solid #fff;
+	border-bottom: 3px solid #fff;
 
 }
 
